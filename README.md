@@ -21,8 +21,26 @@
 
 ## Get the App
 
-<a href="https://apps.apple.com/us/app/starbook-journal-ai-diary/id1552418289?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-US?size=250x83&amp;releaseDate=1612569600&h=9e9ca7fb9eb136d741621d25e5fadce8" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
+<div>
+  <a 
+    href="https://apps.apple.com/us/app/starbook-journal-ai-diary/id1552418289?itsct=apps_box&amp;itscg=30200"
+    >
+    <img
+      align="center"
+      style="height: 50px"
+      src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-US" 
+      alt="Download Starbook on App Store"/>
+  </a>
+  <a 
+    href="https://play.google.com/store/apps/details?id=com.hashirshoaeb.StarBook">
+      <img
+        align="center"
+        style="height: 75px"
+        src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+        alt="Get Starbook on Google Play"/>
+  </a>
+</div>
 
 ## 📝 About the App
 
@@ -49,6 +67,14 @@ Prerequisite: https://flutter.dev/docs/get-started/install
     ```sh
      flutter run --dart-define=flavor=dev
     ```
+
+## Support my work
+
+If you found this project valuable, please consider giving it a ⭐️ on GitHub. Your support keeps me motivated! If you'd like to further support my work, you can buy me a book. Thank you for your generosity!
+
+<div>
+  <a href="https://www.buymeacoffee.com/hashirshoaeb"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=hashirshoaeb&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+ </div>
 
 ## 🤝 Contributing
 
